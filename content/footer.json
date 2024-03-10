@@ -1,50 +1,31 @@
 {
-	"acknowledgments": [
+	"developers": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"person": "Minidon / みにどん",
+			"link": "https://github.com/M1n1don",
+			"note": "Studnet & Infrastructure Engineer"
 		}
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "PeeringDB",
+			"link": "https://www.peeringdb.com/net/34736",
+			"note": ""
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
+			"url": "https://www.youtube.com/@M1n1don",
+			"icon": "youtube"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
+			"url": "https://twitter.com/M1n1don",
+			"icon": "twitter"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
-			"icon": "linkedin"
-		},
-		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/M1n1don",
 			"icon": "github"
 		}
 	]
