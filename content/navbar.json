@@ -4,15 +4,15 @@
 		"title": "About Me"
 	},
 	{
+		"url": "/case-studies",
+		"title": "Case Studies"
+	},
+	{
+		"url": "/articles",
+		"title": "Articles"
+	},
+	{
 		"url": "/projects",
 		"title": "Projects"
-	},
-	{
-		"url": "https://qiita.com/M1n1don",
-		"title": "Qiita"
-	},
-	{
-		"url": "https://discord.gg/B4SYTyW",
-		"title": "Discord"
 	}
 ]
