@@ -25,6 +25,8 @@ import '../node_modules/devicon/devicon.min.css'
 import '../styles/css/variables.css'
 import '../styles/css/global.css'
 
+import Head from "next/head"
+
 /**
  * _app.jsx
  *
@@ -35,6 +37,9 @@ import '../styles/css/global.css'
 export default function MyApp({ Component, pageProps }) {
 	return (
 		<>
+		<Head>
+			<title>Seriolab</title>
+		</Head>
 		<LazyMotion features={domAnimation}>
 			<Layout>
 				<Component {...pageProps} />
